@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning at UCAS...
 - 📫 How to reach me: mathcszk271828@foxmail.com ...
 
-- [卷积实现的VAE模型及其Conditional版本](https://github.com/ZhaoKe1024/ConvolutionalVAE_withConditional)
+- [卷积实现的VAE模型及其Conditional版本-重构音频频谱图](https://github.com/ZhaoKe1024/ConvolutionalVAE_withConditional)
+- [音频分类](https://github.com/ZhaoKe1024/AudioClassification-Pytorch-KZhao)
 - [网页端录制音频并保存的JS和Python实现](https://github.com/ZhaoKe1024/Audio-Record-WebPage)
 - [遗传算法：柔性作业车间调度FJSP问题、云任务负载均衡的Python实现](https://github.com/ZhaoKe1024/IntelligentAlgorithmScheduler)
 - [遗传算法负载均衡的Java实现](https://github.com/ZhaoKe1024/SSbyZKe)
