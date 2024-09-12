@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning at UCAS...
 - 📫 How to reach me: mathcszk271828@foxmail.com or zhaoke22@mails.ucas.ac.cn
 
+- [解耦表示学习AGEDR:COUGHVID数据集的咳嗽声音诊断](https://github.com/ZhaoKe1024/DisentangledRepr)
 - [卷积实现的VAE模型及其Conditional版本-重构音频频谱图](https://github.com/ZhaoKe1024/ConvolutionalVAE_withConditional)
 - [网页端录制音频并保存的JS和Python实现](https://github.com/ZhaoKe1024/Audio-Record-WebPage)
 - [柔性作业车间调度FJSP问题的遗传算法求解](https://github.com/ZhaoKe1024/IntelligentAlgorithmScheduler)
